@@ -49,3 +49,4 @@ function sendRequest(name, phone, {street, house, entrance, floor, flat}, goods,
     let jsonData = JSON.stringify({data});
     return jsonData;
 }
+
